@@ -62,7 +62,7 @@ fun s:set_props()
     let b:field_file = 'File'
     let b:field_license_id = 'License'
     let b:field_author = 'Author'
-    let b:field_date = 'Date'
+    let b:field_date = 'Create'
     let b:field_modified_date = 'Last Modified Date'
     let b:field_modified_by = 'Last Modified By'
     let b:field_separator = ':'
